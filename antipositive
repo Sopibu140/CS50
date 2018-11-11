@@ -1,0 +1,18 @@
+:#include <cs50.h>
+#include <stdio.h>
+
+int main(void)
+{
+    int = 0
+
+    do
+    {
+        printf("Enter antipositive number: ");
+        n = get_int()
+    }
+    while (n < 0)
+
+    printf("Great!");
+
+}
+
